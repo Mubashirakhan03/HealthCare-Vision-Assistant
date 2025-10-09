@@ -135,6 +135,6 @@ Developed by <b>Mubashira Khan</b> <br>
 This project was inspired by healthcare solutions that combine AI and computer vision to support better nutrition decisions.
 
 
-
-<h2><b>Contact</b></h2>
+## Contact
 For any queries: [mubashirakhan1001@gmail.com](mailto:mubashirakhan1001@gmail.com)
+
